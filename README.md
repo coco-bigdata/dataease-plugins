@@ -1,2 +1,2 @@
-# dataease-plugin-sdk
-plugin-sdk of dataease
+# tortoise-plugin-sdk
+plugin-sdk of tortoise
